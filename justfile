@@ -1,3 +1,5 @@
+stage:
+    q23
 test:
     cargo nextest run
     cargo clippy -- --deny warnings
