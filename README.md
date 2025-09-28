@@ -2,7 +2,7 @@
 
 ➡️ [Discord][discord] | [Installation Guide][toc-install] | [Usage Guide][usage-guide] ⬅️
 
-<img src="pictures/rustscan.png" height=400px width=400px>
+<img src="pictures/rustscan.png" height=400px width=asdasdasdadd400px>
 
 <!--<u>**The Modern Port Scanner.**</u>-->
 **Fast, smart, effective.**
