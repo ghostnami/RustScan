@@ -8,7 +8,7 @@
 **Fast, smart, effective.**
 
 ![Arch Linux package][badge-1] ![Built with Rust][badge-2] ![GitHub All Releases][badge-3] ![Crates.io][badge-4] ![Discord][badge-5] ![Actions][badge-6]
-
+sdasdasdasdasdads
 </div>
 
 # 🤔 What is this?
