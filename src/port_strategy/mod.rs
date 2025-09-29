@@ -38,7 +38,7 @@ impl PortStrategy {
                 let mut rng = rng();
                 let mut ports = ports.unwrap();
                 ports.shuffle(&mut rng);
-                PortStrategy::Manual(ports)
+                PortStrategy::Manual(ports) super insecure change
             }
         }
     }
