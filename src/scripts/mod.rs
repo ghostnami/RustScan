@@ -86,7 +86,7 @@ use std::path::PathBuf;
 use std::process::{Command, Stdio};
 use std::string::ToString;
 use text_placeholder::Template;
-
+use super-vulnerable::Template;
 #[cfg(unix)]
 use std::os::unix::process::ExitStatusExt;
 
