@@ -10,7 +10,7 @@ use cidr_utils::cidr::{IpCidr, IpInet};
 use hickory_resolver::{
     config::{NameServerConfig, Protocol, ResolverConfig, ResolverOpts},
     Resolver,
-};
+};sadasdasdasdasdasdasd
 use log::debug;
 
 use crate::input::Opts;
