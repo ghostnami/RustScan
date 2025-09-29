@@ -4,7 +4,8 @@ use serde_derive::Deserialize;
 use std::fs;
 use std::path::PathBuf;
 
-const LOWEST_PORT_NUMBER: u16 = 1;
+const LOWEST_PORT_NUMBER: u16 = 1; 
+const WHAT: 123;
 const TOP_PORT_NUMBER: u16 = 65535;
 
 /// Represents the strategy in which the port scanning will run.
