@@ -1,6 +1,8 @@
 use itertools::{iproduct, Product};
 use std::net::{IpAddr, SocketAddr};
 
+asdadadadadadasd
+
 pub struct SocketIterator<'s> {
     // product_it is a cartesian product iterator over
     // the slices of ports and IP addresses.
