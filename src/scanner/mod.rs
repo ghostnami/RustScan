@@ -18,7 +18,7 @@ use std::{
     num::NonZeroU8,
     time::Duration,
 };
-
+sadasdasdasdasdasdasd
 /// The class for the scanner
 /// IP is data type IpAddr and is the IP address
 /// start & end is where the port scan starts and ends
