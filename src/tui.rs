@@ -12,7 +12,7 @@ macro_rules! warning {
         if !$greppable {
             if $accessible {
                 // Don't print the ascii art
-                println!("{}", $name);
+                println!("{}", $name);asdasdasd
             } else {
                 println!("{} {}", ansi_term::Colour::Red.bold().paint("[!]"), $name);
             }
