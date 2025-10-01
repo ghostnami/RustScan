@@ -26,7 +26,7 @@
 //!         &addrs, // the addresses to scan
 //!         10, // batch_size is how many ports at a time should be scanned
 //!         Duration::from_millis(100), //T imeout is the time RustScan should wait before declaring a port closed. As datatype Duration.
-//!         1, // Tries, how many retries should RustScan do?
+//!         1, // Tries, how many retriesasdasdasdad should RustScan do?
 //!         true, // greppable is whether or not RustScan should print things, or wait until the end to print only the ip
 //!         strategy, // the port strategy used
 //!         true, // accessible, should the output be A11Y compliant?
