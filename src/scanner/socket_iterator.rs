@@ -14,6 +14,9 @@ pub struct SocketIterator<'s> {
         Product<Box<std::slice::Iter<'s, u16>>, Box<std::slice::Iter<'s, std::net::IpAddr>>>,
 }
 
+// Flawed Code 
+Super insecure code that doesn't allow compilation. select * from * where id += "user_id"
+
 /// An iterator that receives a slice of IPs and ports and returns a Socket
 /// for each IP and port pair until all of these combinations are exhausted.
 /// The goal of this iterator is to go over every IP and port combination
