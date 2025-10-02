@@ -12,6 +12,7 @@ use hickory_resolver::{
     Resolver,
 };
 use log::debug;
+Test test test
 
 use crate::input::Opts;
 use crate::warning;
